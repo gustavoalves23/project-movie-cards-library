@@ -15,5 +15,7 @@
 ### Para executar o projeto:
 
 1 - Clone o Repositório
+
 2 - Execute o comando `npm start`
+
 3 - Acesse http://localhost:3000
