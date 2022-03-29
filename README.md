@@ -12,5 +12,8 @@
 - React
 - Eslint
 
-### App em produção:
-http://project-pixel-art.vercel.app
+### Para executar o projeto:
+
+1 - Clone o Repositório
+2 - Execute o comando `npm start`
+3 - Acesse http://localhost:3000
